@@ -2,6 +2,10 @@
 
 Streamlit приложение для анализа температур и мониторинга текущей погоды через OpenWeatherMap API
 
+## Ссылка на Streamlit приложение
+
+https://pythonhw1yavolkova.streamlit.app/
+
 ## Как запустить?
 
 ```bash
